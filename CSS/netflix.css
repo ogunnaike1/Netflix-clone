@@ -1,0 +1,194 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #00081D;
+}
+
+.navwrap {
+  max-width: 95%;
+}
+
+.homewrapper {
+  padding-bottom: 50px;
+  max-width: 95%;
+  margin: 0 auto;
+  background: linear-gradient(to right, rgb(71, 0, 9), rgba(71, 0, 9, 0.1)), url(../image/NG-en-20230410-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+  border-radius: 10px;
+}
+.homewrapper .homewrapper1 {
+  width: 52.3%;
+  margin-left: 9%;
+  padding-top: 10%;
+}
+.homewrapper .homewrapper1 .Unlimited-movies {
+  font-size: 64px;
+  font-weight: 700;
+  color: white;
+  line-height: 80px;
+}
+.homewrapper .homewrapper1 .watch-anywhere {
+  font-size: 24px;
+  font-weight: 500;
+  color: white;
+  margin-top: 20px;
+}
+.homewrapper .homewrapper1 .ready-to {
+  font-size: 20px;
+  font-weight: 400;
+  color: white;
+  margin-top: 30px;
+}
+.homewrapper .input-wrapper {
+  margin-left: 9%;
+  margin-top: 10px;
+  width: 50%;
+  height: 60px;
+}
+.homewrapper .input-wrapper .input-email {
+  background-color: rgba(36, 35, 35, 0.7);
+  border: 1px solid white;
+  width: 60%;
+  height: 90%;
+  border-radius: 5px;
+  padding-left: 15px;
+}
+.homewrapper .input-wrapper .input-button {
+  background-color: red;
+  font-size: 24px;
+  font-weight: 500;
+  color: rgb(235, 232, 232);
+  margin-left: 5px;
+  height: 100%;
+  padding: 0 15px;
+}
+
+.enjoy-on {
+  display: flex;
+  max-width: 75%;
+  margin: 3% auto 0 auto;
+  align-items: center;
+  justify-content: space-between;
+}
+.enjoy-on .enjoy-on1 {
+  width: 48%;
+}
+.enjoy-on .enjoy-on1 .enjoy-h1 {
+  font-size: 48px;
+  font-weight: 900;
+  color: white;
+}
+.enjoy-on .enjoy-on1 .enjoy-p {
+  margin-top: 10px;
+  font-size: 20px;
+  font-weight: 500;
+  color: white;
+}
+.enjoy-on .enjoy-on2 {
+  width: 48%;
+}
+.enjoy-on .enjoy-on2 img {
+  width: 100%;
+}
+
+.Frequently {
+  font-size: 40px;
+  font-weight: 700;
+  color: white;
+  width: 75%;
+  margin: 30px auto 10px auto;
+}
+
+.accordion-buttom {
+  width: 75%;
+  margin: 0 auto;
+}
+
+.accordion-item {
+  background-color: #132144;
+  font-size: 24px;
+  color: white;
+}
+
+.accordion-button {
+  background-color: #132144;
+  margin-top: 20px;
+  font-size: 24px;
+  color: white;
+  height: 80px;
+}
+
+.accordion-button:focus {
+  background-color: #132144;
+  color: white;
+}
+
+.Ready-to-watch {
+  font-size: 20px;
+  font-weight: 400;
+  color: white;
+  width: 75%;
+  margin: 20px auto 0 auto;
+}
+
+.input-wrapper-buttom {
+  margin: 0 auto;
+  width: 75%;
+}
+.input-wrapper-buttom .input-wrapper1 {
+  margin-top: 20px;
+  width: 65%;
+  height: 60px;
+}
+.input-wrapper-buttom .input-wrapper1 .input-email {
+  background-color: rgba(36, 35, 35, 0.7);
+  border: 1px solid white;
+  width: 60%;
+  height: 90%;
+  border-radius: 5px;
+  padding-left: 15px;
+}
+.input-wrapper-buttom .input-wrapper1 .input-button {
+  background-color: red;
+  font-size: 24px;
+  font-weight: 500;
+  color: rgb(235, 232, 232);
+  margin-left: 5px;
+  height: 100%;
+  padding: 0 15px;
+}
+
+.footer {
+  max-width: 75%;
+  margin: 100px auto 0 auto;
+  padding-bottom: 9%;
+}
+.footer .Question a {
+  font-size: 16px;
+  color: white;
+}
+.footer .footer-table {
+  margin-top: 40px;
+  display: flex;
+  gap: 0 13%;
+}
+.footer .footer-table .faq a {
+  font-size: 14px;
+  color: white;
+  display: block;
+  padding-top: 10px;
+}
+.footer .english-form {
+  width: 12%;
+  height: 30px;
+  font-size: 18px;
+  color: white;
+  background-color: black;
+  font-weight: 500;
+  margin-top: 30px;
+  text-align: center;
+}
+.footer .Netflix-Nigeria {
+  margin-top: 40px;
+  color: white;
+  font-size: 14px;
+}
